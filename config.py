@@ -1,0 +1,8 @@
+SCREEN_SIZE = 600
+STEP = 20
+START_LENGTH = 3
+INITIAL_SPEED = 0.12
+
+WALL_LIMIT = SCREEN_SIZE // 2 - 20
+
+FONT = ("Courier", 18, "bold")
